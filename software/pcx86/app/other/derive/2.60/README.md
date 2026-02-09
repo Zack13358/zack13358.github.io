@@ -3,7 +3,7 @@ layout: page
 title: "Derive"
 permalink: /software/pcx86/app/other/derive/2.60/
 machines:
-  - id: ibm5150-vga
+  - id: ibm5160-vga
     type: pcx86
     config: /machines/pcx86/ibm/5160/vga/640kb/debugger/machine.xml
     resume: 1
