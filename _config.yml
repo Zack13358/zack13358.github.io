@@ -1,6 +1,6 @@
-title: PCjs Machines
-domain: pcjs.org
-tagline: Home of the original IBM PC emulator for browsers.
+title: Derive
+domain: zack13358.github.io
+tagline: Run Derive in your web browser!
 description: >
   PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC
   applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals,
@@ -57,7 +57,7 @@ software:
   decdisks:
     server: https://decdisks.pcjs.org
   diskettes:
-    server: https://diskettes.pcjs.org
+    server: https://zack13358.github.io/pcjs-diskettes-derive/
   gamedisks:
     server: https://gamedisks.pcjs.org
   harddisks:
