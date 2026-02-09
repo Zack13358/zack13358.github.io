@@ -10,6 +10,8 @@ machines:
     autoMount:
       A:
         name: MS-DOS 3.30 (Disk 1)
+      B:
+        name: MS-DOS 3.30 (Disk 2)
 ---
 
 MS-DOS 3.30 was released in February 1988.
