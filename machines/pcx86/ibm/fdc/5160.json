@@ -2,8 +2,8 @@
   "id": "fdcNEC",
   "class": "fdc",
   "autoMount": {
-    "A": {"name": "PC DOS 2.00 (Disk 1)"},
-    "B": {"name": "PC DOS 2.00 (Disk 2)"}
+    "A": {"name": "MS-DOS 3.30 (Disk 1)"},
+    "B": {"name": "Derive 2.60"}
   },
   "diskettes": "/machines/pcx86/diskettes.json,/disks/private/pcx86/diskettes.json",
   "server": "/diskettes",
