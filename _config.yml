@@ -63,7 +63,7 @@ software:
   harddisks:
     server: https://harddisks.pcjs.org
   miscdisks:
-    server: https://miscdisks.pcjs.org
+    server: https://zack13358.github.io/pcjs-miscdisks-derive/
   pcsigdisks:
     server: https://pcsigdisks.pcjs.org
 

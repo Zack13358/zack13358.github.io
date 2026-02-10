@@ -1,19 +1,4 @@
 {
-  "dec": {
-    "@title": "DEC",
-    "@instances": {
-      "pdp10": {
-        "@title": "PDP-10",
-        "@path": "/dec/pdp10",
-        "@type": "software"
-      },
-      "pdp11": {
-        "@title": "PDP-11",
-        "@path": "/dec/pdp11",
-        "@type": "software"
-      }
-    }
-  },
   "pcx86": {
     "": {
       "@title": "IBM PC",
@@ -21,25 +6,5 @@
       "@type": "diskettes",
       "@diskette_drives": ["A", "B"]
     }
-  },
-  "osi": {
-    "c1p": {
-      "@title": "OSI C1P",
-      "@path": "/osi/c1p",
-      "@type": "software"
-    }
-  },
-  "pcjs": {
-    "@title": "PCjs",
-    "@instances": [
-      {
-        "@title": "Tools",
-        "@permalink": "/tools/"
-      },
-      {
-        "@title": "Software Archive",
-        "@permalink": "/software/pcjs/"
-      }
-    ]
   }
 }
