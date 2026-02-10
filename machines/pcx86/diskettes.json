@@ -47,6 +47,6 @@
 			}
      	}
 	},
-    "@server": "/disks/miscdisks"
+    "@server": "https://zack13358.github.io/pcjs-miscdisks-derive/"
   }
 }
