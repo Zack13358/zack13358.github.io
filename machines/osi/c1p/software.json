@@ -1,0 +1,152 @@
+{
+  "basic": {
+    "@title": "BASIC Programs",
+    "osi": {
+      "@title": "OSI",
+      "@products": {
+        "math": {
+          "@title": "BASIC MATH",
+          "@tape": "MATH.BAS",
+          "@format": "ASCII"
+        },
+        "checking": {
+          "@title": "CHECKING",
+          "@tape": "CHECKING.BAS",
+          "@format": "ASCII"
+        },
+        "counter": {
+          "@title": "COUNTER",
+          "@tape": "COUNTER.BAS",
+          "@format": "ASCII"
+        },
+        "poker": {
+          "@title": "POKER",
+          "@tape": "POKER.BAS",
+          "@format": "ASCII"
+        },
+        "presidents": {
+          "@title": "PRESIDENTS",
+          "@tape": "PRESIDENTS.BAS",
+          "@format": "ASCII"
+        },
+        "starwars": {
+          "@title": "STAR WARS",
+          "@tape": "STARWARS.BAS",
+          "@format": "ASCII"
+        },
+        "trigtutor": {
+          "@title": "TRIG TUTOR",
+          "@tape": "TRIGTUTOR.BAS",
+          "@format": "ASCII"
+        }
+      }
+    },
+    "other": {
+      "@title": "Other",
+      "@products": {
+        "osiweb/seawolfe": {
+          "@title": "SEAWOLFE",
+          "@tape": "SEAWOLFE.BAS",
+          "@format": "ASCII",
+          "@source": "http://www.osiweb.org/programs/basic/"
+        },
+        "osiweb/spacewar": {
+          "@title": "SPACEWAR",
+          "@tape": "SPACEWAR.BAS",
+          "@format": "ASCII",
+          "@source": "http://www.osiweb.org/programs/basic/"
+        },
+        "osiweb/startrek": {
+          "@title": "STAR TREK",
+          "@tape": "STARTREK.BAS",
+          "@format": "ASCII",
+          "@source": "http://www.osiweb.org/programs/basic/"
+        },
+        "osiweb/tankfortwo": {
+          "@title": "TANK FOR TWO",
+          "@tape": "TANKFORTWO.BAS",
+          "@format": "ASCII",
+          "@source": "http://www.osiweb.org/programs/basic/"
+        }
+      }
+    },
+    "jeffpar": {
+      "@title": "PCjs",
+      "@products": {
+        "checkers": {
+          "@title": "CHECKERS",
+          "@tape": "CHECKERS.BAS",
+          "@format": "ASCII"
+        },
+        "hangwoman": {
+          "@title": "HANGWOMAN",
+          "@tape": "HANGWOMAN.BAS",
+          "@format": "ASCII"
+        },
+        "life": {
+          "@title": "LIFE",
+          "@tape": "LIFE.BAS",
+          "@format": "ASCII"
+        },
+        "othello": {
+          "@title": "OTHELLO",
+          "@tape": "OTHELLO.BAS",
+          "@format": "ASCII"
+        },
+        "soforecast": {
+          "@title": "SOFORECAST",
+          "@tape": "SOFORECAST.BAS",
+          "@format": "ASCII"
+        },
+        "tubelist": {
+          "@title": "TUBELIST",
+          "@tape": "TUBELIST.BAS",
+          "@format": "ASCII"
+        }
+      }
+    }
+  },
+  "6502": {
+    "@title": "6502 Programs",
+    "jeffpar": {
+      "@title": "PCjs",
+      "@products": {
+        "assembler": {
+          "@title": "6502 Assembler (8K)",
+          "@tape": "ASSEMBLER-8K.json",
+          "@format": "BINARY",
+          "@source": "PCjs"
+        },
+        "basicext": {
+          "@title": "BASIC Extensions",
+          "@tape": "BASICEXT.json",
+          "@format": "BINARY",
+          "@source": "PCjs"
+        },
+        "life": {
+          "@title": "LIFE",
+          "@tape": "LIFE.json",
+          "@format": "BINARY",
+          "@source": "PCjs"
+        }
+      }
+    },
+    "tests": {
+      "@title": "Processor Tests",
+      "@products": {
+        "bcd": {
+          "@title": "BCD Tests",
+          "@test": "BCD.json",
+          "@format": "BINARY",
+          "@source": "http://www.6502.org/tutorials/decimal_mode.html"
+        },
+        "vflag": {
+          "@title": "Overflow Tests",
+          "@test": "VFLAG.json",
+          "@format": "BINARY",
+          "@source": "http://www.6502.org/tutorials/vflag.html"
+        }
+      }
+    }
+  }
+}
