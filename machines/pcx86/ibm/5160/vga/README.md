@@ -7,6 +7,11 @@ machines:
     type: pcx86
     config: /machines/pcx86/ibm/5160/vga/640kb/machine.xml
     debugger: available
+    autoMount:
+      A:
+        name: MS-DOS 3.30 (Disk 1)
+      B:
+        name: MS-DOS 3.30 (Disk 2)
     autoType: $date\r$time\r
 ---
 
