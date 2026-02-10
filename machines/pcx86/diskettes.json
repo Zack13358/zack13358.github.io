@@ -26,5 +26,26 @@
 			}
 		},
 		"@server": "/disks/diskettes"
-	}
+	},
+	"app": {
+    "other": {
+      "@title": "Other",
+      "derive": {
+        "@title": "Derive",
+        "@versions": {
+          "2.60": {
+            "@title": "Derive 2.60",
+            "@media": [
+              {
+                "@title": "Derive 2.60",
+                "@diskette": "derive260-disk1.json",
+                "@format": "PC360K"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "@server": "/disks/miscdisks",
+  }
 }
